@@ -1,2 +1,6 @@
 env/
 __pycache__/
+twitter_api/
+main_sd.py
+db.py
+validation.py
